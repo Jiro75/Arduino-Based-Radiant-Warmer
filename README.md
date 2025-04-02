@@ -80,6 +80,11 @@ A huge thank you to my incredible team for their dedication and hard work:
 
 ---
 
+## 📝 License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Arduino-Based-Radiant-Warmer/blob/912c581d1db061429615922b3055842dbcb8d294/LICENSE) file for details
+
+---
+
 ## 📫 Contact
 Email: Mostafahany4705@gmail.com <br>
 LinkedIn: www.linkedin.com/in/mostafahany4705
